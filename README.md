@@ -10,13 +10,16 @@ This project has two main goals:
 
 ## Roadmap
 
-- [ ] cmake with cppfront
-- [ ] Googletest, alternative?
-- [ ] official documentation
-- [ ] Static/dynamic lib support
-- [ ] Basic features
+- [ ] Setup cmake
+- [ ] Googletest
+- [ ] Official OBJ documentation  
+      Include it in docs?
+- [ ] Basic features  
+      Indices, vertices, normals, texture coordinates
+      First release
 - [ ] Materials
-- [ ] Helpers
-  Handle corrupted data
-  Convert triangles vs quads
+- [ ] Helpers  
+      Handle corrupted data
+      Convert between triangles and quads
+      Further research
 - [ ] Extensions
